@@ -42,11 +42,15 @@
           "name": "stdout",
           "text": [
             "Hussein Waleed\n"
+            "Yousef Atef\n"
+            "Omer Ahmed\n"
           ]
         }
       ],
       "source": [
         "print('Hussein Waleed')"
+        "print('Yousef Atef')"
+        "print('Omer Ahmed')"
       ]
     },
     {
